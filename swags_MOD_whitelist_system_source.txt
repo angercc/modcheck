@@ -1,5 +1,5 @@
 ModIDS = {
-    [2596674204] = true, -- SympingForArii
+    [648555385] = true, -- SympingForArii
     [1708886407] = true, -- losercouncil
     [2049346249] = true, -- losersalt
     [11212285] = true, -- scarface
